@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Modding 🙄"];
+const statusMessages = ["Quimby > Chabooty"];
 
 
 let currentIndex = 0;
