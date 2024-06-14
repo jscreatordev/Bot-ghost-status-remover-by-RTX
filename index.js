@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Quimby > Chabooty"];
+const statusMessages = ["EMPIRE DRAGON NEST M"];
 
 
 let currentIndex = 0;
